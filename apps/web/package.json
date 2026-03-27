@@ -110,7 +110,7 @@
     "next-safe-action": "7.10.5",
     "next-sanity": "9",
     "next-themes": "0.4.6",
-    "nodemailer": "6.10.1",
+    "nodemailer": "8.0.4",
     "nuqs": "2.4.2",
     "ollama-ai-provider": "1.2.0",
     "openai": "4.93.0",
